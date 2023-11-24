@@ -1,0 +1,36 @@
+* {
+    margin:0;
+}
+.container{
+    display: flex;
+    
+}
+nav{
+    background-color: green;
+    width: 40vh;
+    height: 100vh;
+}
+header{
+    background-color: yellowgreen;
+    width: 170vh;
+    height: 15vh; 
+}
+.bagian{
+    display: flex;
+}
+article{
+    background-color: yellow;
+    width: 100vh;
+    height: 70vh;
+
+}
+aside{
+    background-color: green;
+    width: 70vh;
+    height: 70vh;
+}
+footer{
+    background-color: orangered;
+    width: 170vh;
+    height: 15vh;
+}
